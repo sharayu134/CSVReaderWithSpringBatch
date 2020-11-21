@@ -1,0 +1,1001 @@
+DATE,CURRENCY_NAME,CURRENCY_CODE,TERMS,INTERNAL_SPOT_RATE,BUY_RATE,SELL_RATE,BOSS_RATE,CUTOFF_TIME
+17-May-19,Euro,SLL,M,23,56,32,39,15:00:00
+17-May-19,New Zealand dollar,BRL,D,44,59,64,25,15:00:00
+17-May-19,Japanese yen,RUB,M,84,100,56,42,15:00:00
+17-May-19,Japanese yen,EUR,M,68,19,53,42,15:00:00
+17-May-19,Pound Sterling,NGN,M,11,42,52,69,15:00:00
+17-May-19,Canadian dollar,RSD,D,11,80,94,94,15:00:00
+17-May-19,Canadian dollar,KMF,M,63,48,56,71,15:00:00
+17-May-19,Canadian dollar,PHP,M,65,11,41,43,15:00:00
+17-May-19,Canadian dollar,IDR,M,97,16,81,47,15:00:00
+17-May-19,Emirati dirham,BDT,D,28,13,37,67,15:00:00
+17-May-19,Canadian dollar,ILS,D,13,68,62,94,15:00:00
+17-May-19,Australian dollar,COP,D,81,33,92,100,15:00:00
+17-May-19,New Zealand dollar,EUR,M,16,67,36,50,15:00:00
+17-May-19,Emirati dirham,VEF,D,97,99,93,61,15:00:00
+17-May-19,Pound Sterling,BRL,D,57,4,43,16,15:00:00
+17-May-19,Pound Sterling,PEN,D,54,8,19,19,15:00:00
+17-May-19,Australian dollar,PLN,D,51,89,16,32,15:00:00
+17-May-19,Japanese yen,CNY,M,62,65,8,82,15:00:00
+17-May-19,Pound Sterling,PEN,D,69,30,87,31,15:00:00
+17-May-19,New Zealand dollar,CNY,D,83,90,37,24,15:00:00
+17-May-19,Pound Sterling,UAH,M,14,16,48,40,15:00:00
+17-May-19,New Zealand dollar,IDR,M,60,65,35,63,15:00:00
+17-May-19,Australian dollar,PHP,D,72,70,58,17,15:00:00
+17-May-19,Pound Sterling,RUB,D,91,24,49,22,15:00:00
+17-May-19,Emirati dirham,GTQ,M,58,9,79,19,15:00:00
+17-May-19,Japanese yen,PKR,M,4,17,14,25,15:00:00
+17-May-19,Japanese yen,CNY,M,70,44,66,73,15:00:00
+17-May-19,Pound Sterling,CNY,D,20,87,45,4,15:00:00
+17-May-19,Canadian dollar,IDR,D,6,94,70,50,15:00:00
+17-May-19,Euro,PEN,M,34,90,100,71,15:00:00
+17-May-19,Australian dollar,IDR,M,52,91,14,46,15:00:00
+17-May-19,Australian dollar,BRL,M,32,27,79,35,15:00:00
+17-May-19,Pound Sterling,AUD,D,75,83,48,40,15:00:00
+17-May-19,Australian dollar,PHP,D,54,66,68,57,15:00:00
+17-May-19,Australian dollar,IDR,D,31,89,83,15,15:00:00
+17-May-19,New Zealand dollar,XAF,D,37,7,66,36,15:00:00
+17-May-19,Australian dollar,THB,D,19,84,43,86,15:00:00
+17-May-19,Australian dollar,AFN,D,65,28,28,5,15:00:00
+17-May-19,Japanese yen,CNY,M,20,98,65,97,15:00:00
+17-May-19,Japanese yen,COP,D,98,95,80,56,15:00:00
+17-May-19,Australian dollar,RUB,D,79,8,100,38,15:00:00
+17-May-19,Australian dollar,RUB,D,61,42,78,24,15:00:00
+17-May-19,Pound Sterling,VND,M,31,99,50,21,15:00:00
+17-May-19,Japanese yen,PHP,D,89,73,35,83,15:00:00
+17-May-19,Euro,MKD,D,31,72,15,80,15:00:00
+17-May-19,Japanese yen,IDR,M,40,14,6,62,15:00:00
+17-May-19,Emirati dirham,SEK,M,52,90,72,10,15:00:00
+17-May-19,Euro,CAD,D,54,27,83,34,15:00:00
+17-May-19,Japanese yen,IDR,D,66,97,64,95,15:00:00
+17-May-19,Emirati dirham,MXN,M,68,93,54,45,15:00:00
+17-May-19,Japanese yen,ILS,M,84,67,28,16,15:00:00
+17-May-19,Australian dollar,CNY,M,19,92,76,57,15:00:00
+17-May-19,Canadian dollar,NOK,M,62,72,21,21,15:00:00
+17-May-19,Canadian dollar,BYR,D,39,62,86,84,15:00:00
+17-May-19,Pound Sterling,RUB,M,71,56,63,100,15:00:00
+17-May-19,Pound Sterling,PEN,D,92,5,17,51,15:00:00
+17-May-19,Canadian dollar,IDR,D,6,94,9,12,15:00:00
+17-May-19,Japanese yen,PEN,M,60,67,40,30,15:00:00
+17-May-19,Japanese yen,EUR,D,38,5,70,48,15:00:00
+17-May-19,Australian dollar,EUR,D,9,72,45,38,15:00:00
+17-May-19,Pound Sterling,EUR,M,28,46,57,28,15:00:00
+17-May-19,Euro,IDR,D,75,36,31,11,15:00:00
+17-May-19,Emirati dirham,EUR,M,9,87,51,70,15:00:00
+17-May-19,Euro,PLN,M,87,85,64,44,15:00:00
+17-May-19,Canadian dollar,THB,D,42,27,48,7,15:00:00
+17-May-19,Emirati dirham,BRL,D,98,31,17,83,15:00:00
+17-May-19,New Zealand dollar,YER,D,91,86,26,88,15:00:00
+17-May-19,Emirati dirham,EUR,M,56,66,97,87,15:00:00
+17-May-19,Pound Sterling,PHP,M,33,87,6,56,15:00:00
+17-May-19,Emirati dirham,JPY,M,98,81,17,93,15:00:00
+17-May-19,Pound Sterling,CRC,M,91,4,43,24,15:00:00
+17-May-19,Japanese yen,CNY,D,2,95,24,38,15:00:00
+17-May-19,Euro,UYU,M,15,96,76,19,15:00:00
+17-May-19,Australian dollar,IDR,D,23,83,28,38,15:00:00
+17-May-19,Japanese yen,VND,D,48,29,4,18,15:00:00
+17-May-19,Emirati dirham,PHP,M,56,11,88,51,15:00:00
+17-May-19,Canadian dollar,COP,D,61,42,32,88,15:00:00
+17-May-19,Emirati dirham,TND,M,100,27,37,8,15:00:00
+17-May-19,Canadian dollar,BRL,D,19,81,94,42,15:00:00
+17-May-19,Canadian dollar,CNY,D,63,83,9,63,15:00:00
+17-May-19,Pound Sterling,IDR,M,63,9,69,56,15:00:00
+17-May-19,New Zealand dollar,IDR,D,12,44,53,62,15:00:00
+17-May-19,Canadian dollar,PLN,D,18,40,82,36,15:00:00
+17-May-19,Japanese yen,CNY,M,27,62,40,65,15:00:00
+17-May-19,Euro,BRL,M,67,16,36,34,15:00:00
+17-May-19,Australian dollar,BRL,D,3,21,76,65,15:00:00
+17-May-19,Japanese yen,THB,M,31,98,90,32,15:00:00
+17-May-19,Pound Sterling,RUB,D,84,12,24,47,15:00:00
+17-May-19,New Zealand dollar,XOF,M,25,43,10,78,15:00:00
+17-May-19,Canadian dollar,CNY,D,18,63,42,57,15:00:00
+17-May-19,Euro,KRW,D,62,88,36,95,15:00:00
+17-May-19,Pound Sterling,UAH,D,22,67,6,6,15:00:00
+17-May-19,Japanese yen,CNY,M,49,54,58,67,15:00:00
+17-May-19,Canadian dollar,DOP,M,84,90,30,70,15:00:00
+17-May-19,New Zealand dollar,ILS,M,35,91,96,64,15:00:00
+17-May-19,Euro,RSD,D,27,37,95,66,15:00:00
+17-May-19,New Zealand dollar,EUR,M,15,64,23,53,15:00:00
+17-May-19,New Zealand dollar,EUR,D,70,76,77,7,15:00:00
+17-May-19,Emirati dirham,CNY,M,32,50,83,88,15:00:00
+17-May-19,Australian dollar,PLN,M,19,66,44,41,15:00:00
+17-May-19,New Zealand dollar,SEK,M,97,49,94,98,15:00:00
+17-May-19,Euro,CNY,D,76,99,47,44,15:00:00
+17-May-19,New Zealand dollar,CNY,D,13,28,27,21,15:00:00
+17-May-19,Emirati dirham,PHP,D,7,70,32,49,15:00:00
+17-May-19,Euro,HTG,D,8,34,90,83,15:00:00
+17-May-19,Pound Sterling,UYU,D,23,44,100,66,15:00:00
+17-May-19,Emirati dirham,EUR,M,17,46,72,26,15:00:00
+17-May-19,Japanese yen,SEK,D,23,97,62,70,15:00:00
+17-May-19,Australian dollar,IDR,D,81,65,13,75,15:00:00
+17-May-19,Japanese yen,MYR,D,27,62,55,99,15:00:00
+17-May-19,New Zealand dollar,CNY,D,80,64,70,80,15:00:00
+17-May-19,Australian dollar,CNY,D,77,31,79,1,15:00:00
+17-May-19,Canadian dollar,IDR,M,80,43,68,79,15:00:00
+17-May-19,Australian dollar,IDR,D,29,79,2,11,15:00:00
+17-May-19,Japanese yen,PLN,M,65,100,45,76,15:00:00
+17-May-19,Japanese yen,VND,D,23,93,82,38,15:00:00
+17-May-19,Australian dollar,CNY,D,5,45,23,84,15:00:00
+17-May-19,Canadian dollar,CNY,D,55,41,7,85,15:00:00
+17-May-19,Japanese yen,EUR,D,33,54,93,1,15:00:00
+17-May-19,Pound Sterling,JPY,D,42,24,10,28,15:00:00
+17-May-19,Japanese yen,CNY,D,4,88,38,58,15:00:00
+17-May-19,Emirati dirham,CNY,M,45,92,54,8,15:00:00
+17-May-19,Pound Sterling,CNY,M,73,62,59,72,15:00:00
+17-May-19,Pound Sterling,KRW,M,43,95,15,70,15:00:00
+17-May-19,Emirati dirham,IDR,M,78,40,35,68,15:00:00
+17-May-19,Euro,CNY,D,2,98,28,54,15:00:00
+17-May-19,Pound Sterling,CNY,D,74,60,7,7,15:00:00
+17-May-19,Euro,UAH,D,94,90,19,97,15:00:00
+17-May-19,Canadian dollar,AED,M,81,6,32,81,15:00:00
+17-May-19,Australian dollar,SEK,M,44,31,17,3,15:00:00
+17-May-19,Emirati dirham,CNY,D,38,37,78,72,15:00:00
+17-May-19,Canadian dollar,PYG,M,69,80,71,51,15:00:00
+17-May-19,New Zealand dollar,COP,M,15,79,93,23,15:00:00
+17-May-19,Australian dollar,CNY,M,2,99,65,72,15:00:00
+17-May-19,Emirati dirham,PHP,D,30,62,29,14,15:00:00
+17-May-19,Pound Sterling,BDT,D,8,79,17,95,15:00:00
+17-May-19,Euro,RUB,D,19,21,99,64,15:00:00
+17-May-19,Pound Sterling,CNY,M,88,21,52,56,15:00:00
+17-May-19,New Zealand dollar,IDR,M,40,44,48,30,15:00:00
+17-May-19,New Zealand dollar,EUR,M,85,26,42,22,15:00:00
+17-May-19,Australian dollar,CNY,M,49,80,61,10,15:00:00
+17-May-19,Canadian dollar,UGX,D,16,98,29,70,15:00:00
+17-May-19,Pound Sterling,CNY,M,17,85,35,4,15:00:00
+17-May-19,Australian dollar,CNY,D,71,83,4,91,15:00:00
+17-May-19,Emirati dirham,VUV,D,77,42,61,86,15:00:00
+17-May-19,Australian dollar,RUB,M,61,38,96,48,15:00:00
+17-May-19,Japanese yen,CNY,M,45,14,64,40,15:00:00
+17-May-19,Emirati dirham,USD,D,84,14,17,52,15:00:00
+17-May-19,Canadian dollar,THB,M,76,71,30,28,15:00:00
+17-May-19,Japanese yen,RUB,D,1,44,49,4,15:00:00
+17-May-19,Canadian dollar,EUR,M,85,45,2,71,15:00:00
+17-May-19,Australian dollar,CNY,M,56,6,58,75,15:00:00
+17-May-19,Euro,CNY,D,68,36,52,16,15:00:00
+17-May-19,Japanese yen,CNY,D,44,49,96,19,15:00:00
+17-May-19,Canadian dollar,ETB,D,84,88,30,29,15:00:00
+17-May-19,New Zealand dollar,NAD,M,13,42,9,17,15:00:00
+17-May-19,Japanese yen,CNY,M,10,72,46,28,15:00:00
+17-May-19,Australian dollar,AFN,M,64,58,72,93,15:00:00
+17-May-19,Canadian dollar,CNY,D,96,59,68,87,15:00:00
+17-May-19,Japanese yen,SEK,M,46,71,61,7,15:00:00
+17-May-19,Pound Sterling,IDR,D,46,71,29,6,15:00:00
+17-May-19,Pound Sterling,PLN,D,14,54,37,56,15:00:00
+17-May-19,Canadian dollar,JPY,D,23,8,34,23,15:00:00
+17-May-19,Emirati dirham,GMD,D,39,79,32,55,15:00:00
+17-May-19,Euro,USD,D,25,38,55,79,15:00:00
+17-May-19,Pound Sterling,CNY,M,42,79,97,51,15:00:00
+17-May-19,Australian dollar,CNY,M,45,74,64,80,15:00:00
+17-May-19,Japanese yen,EUR,D,28,45,53,40,15:00:00
+17-May-19,Emirati dirham,NGN,D,16,70,71,82,15:00:00
+17-May-19,Pound Sterling,PHP,M,10,26,35,54,15:00:00
+17-May-19,Australian dollar,BZD,D,40,57,43,21,15:00:00
+17-May-19,New Zealand dollar,RUB,D,31,11,42,92,15:00:00
+17-May-19,Euro,KZT,D,78,87,24,67,15:00:00
+17-May-19,Euro,EUR,M,65,28,41,19,15:00:00
+17-May-19,Australian dollar,CNY,M,44,21,100,17,15:00:00
+17-May-19,Canadian dollar,AZN,D,73,63,78,68,15:00:00
+17-May-19,Pound Sterling,PHP,D,45,71,22,20,15:00:00
+17-May-19,New Zealand dollar,CNY,M,30,37,54,49,15:00:00
+17-May-19,Canadian dollar,EUR,M,100,95,71,38,15:00:00
+17-May-19,Japanese yen,KZT,D,37,58,10,26,15:00:00
+17-May-19,Euro,EUR,M,54,87,53,12,15:00:00
+17-May-19,Euro,IDR,M,61,80,58,49,15:00:00
+17-May-19,Japanese yen,RSD,D,75,79,10,54,15:00:00
+17-May-19,Pound Sterling,MXN,D,74,40,1,35,15:00:00
+17-May-19,Pound Sterling,AUD,D,81,30,25,62,15:00:00
+17-May-19,New Zealand dollar,EUR,M,72,86,69,14,15:00:00
+17-May-19,Japanese yen,CNY,D,67,14,52,65,15:00:00
+17-May-19,Japanese yen,IDR,D,40,10,16,100,15:00:00
+17-May-19,Emirati dirham,PLN,D,33,7,51,75,15:00:00
+17-May-19,Japanese yen,CNY,M,19,30,74,57,15:00:00
+17-May-19,Pound Sterling,JPY,M,8,64,97,46,15:00:00
+17-May-19,Japanese yen,PLN,M,96,23,85,64,15:00:00
+17-May-19,Japanese yen,CNY,M,77,25,12,53,15:00:00
+17-May-19,Japanese yen,RUB,D,22,70,51,72,15:00:00
+17-May-19,New Zealand dollar,ZMW,M,41,43,88,94,15:00:00
+17-May-19,Emirati dirham,GHS,M,40,6,93,22,15:00:00
+17-May-19,Emirati dirham,RUB,M,69,76,39,89,15:00:00
+17-May-19,Australian dollar,VND,M,4,21,3,77,15:00:00
+17-May-19,Canadian dollar,IDR,M,49,55,64,43,15:00:00
+17-May-19,Japanese yen,EUR,M,55,1,16,33,15:00:00
+17-May-19,Euro,AFN,M,55,45,36,77,15:00:00
+17-May-19,Emirati dirham,DKK,D,60,12,66,70,15:00:00
+17-May-19,Japanese yen,CUP,M,63,54,3,13,15:00:00
+17-May-19,Japanese yen,BRL,D,18,37,58,8,15:00:00
+17-May-19,Pound Sterling,IDR,M,1,72,91,43,15:00:00
+17-May-19,Canadian dollar,RUB,M,77,42,29,93,15:00:00
+17-May-19,Emirati dirham,RUB,D,73,71,62,58,15:00:00
+17-May-19,Australian dollar,AFN,D,22,100,29,54,15:00:00
+17-May-19,Japanese yen,PHP,M,29,94,78,57,15:00:00
+17-May-19,Emirati dirham,SEK,D,63,24,95,82,15:00:00
+17-May-19,Canadian dollar,RUB,M,43,91,34,88,15:00:00
+17-May-19,New Zealand dollar,CNY,M,12,10,50,80,15:00:00
+17-May-19,Japanese yen,CZK,D,51,3,64,99,15:00:00
+17-May-19,Japanese yen,JPY,M,96,92,83,91,15:00:00
+17-May-19,Emirati dirham,EUR,D,4,78,59,81,15:00:00
+17-May-19,Pound Sterling,CNY,M,25,99,77,47,15:00:00
+17-May-19,Canadian dollar,RUB,M,70,40,73,93,15:00:00
+17-May-19,Pound Sterling,PLN,M,37,78,86,68,15:00:00
+17-May-19,Pound Sterling,IDR,M,96,47,15,42,15:00:00
+17-May-19,New Zealand dollar,IDR,M,71,39,56,70,15:00:00
+17-May-19,Australian dollar,PLN,M,68,23,74,14,15:00:00
+17-May-19,Canadian dollar,ARS,D,15,26,100,62,15:00:00
+17-May-19,Pound Sterling,CNY,M,98,11,84,49,15:00:00
+17-May-19,New Zealand dollar,BGN,D,78,48,88,46,15:00:00
+17-May-19,New Zealand dollar,IDR,D,6,38,25,19,15:00:00
+17-May-19,Emirati dirham,CNY,D,77,59,80,100,15:00:00
+17-May-19,Canadian dollar,EUR,M,14,48,58,54,15:00:00
+17-May-19,Pound Sterling,CNY,D,83,21,79,25,15:00:00
+17-May-19,Pound Sterling,PHP,D,95,25,41,59,15:00:00
+17-May-19,Japanese yen,THB,M,56,56,65,97,15:00:00
+17-May-19,Euro,COP,M,80,62,92,80,15:00:00
+17-May-19,Pound Sterling,MVR,D,76,45,84,72,15:00:00
+17-May-19,Australian dollar,HNL,D,23,20,18,4,15:00:00
+17-May-19,Pound Sterling,BAM,D,1,68,14,85,15:00:00
+17-May-19,Euro,IDR,D,79,36,15,68,15:00:00
+17-May-19,Canadian dollar,CZK,M,43,11,2,12,15:00:00
+17-May-19,Emirati dirham,PLN,D,100,50,49,65,15:00:00
+17-May-19,Australian dollar,UAH,M,60,79,5,92,15:00:00
+17-May-19,Pound Sterling,EUR,D,83,72,59,70,15:00:00
+17-May-19,Emirati dirham,UAH,D,97,20,90,51,15:00:00
+17-May-19,Emirati dirham,PEN,D,32,46,5,3,15:00:00
+17-May-19,New Zealand dollar,IDR,M,10,8,65,16,15:00:00
+17-May-19,Pound Sterling,CNY,D,26,34,57,54,15:00:00
+17-May-19,Australian dollar,EUR,M,94,38,26,11,15:00:00
+17-May-19,Australian dollar,IDR,D,2,42,8,7,15:00:00
+17-May-19,Australian dollar,SYP,D,19,76,2,76,15:00:00
+17-May-19,Emirati dirham,ARS,M,76,40,76,97,15:00:00
+17-May-19,Emirati dirham,CNY,M,21,50,35,92,15:00:00
+17-May-19,Emirati dirham,EUR,M,89,79,90,45,15:00:00
+17-May-19,Canadian dollar,ARS,D,78,38,7,91,15:00:00
+17-May-19,Pound Sterling,PLN,M,58,86,29,74,15:00:00
+17-May-19,Pound Sterling,CNY,D,63,14,60,11,15:00:00
+17-May-19,Emirati dirham,BRL,D,44,19,79,32,15:00:00
+17-May-19,Canadian dollar,COP,D,63,20,23,47,15:00:00
+17-May-19,Canadian dollar,CZK,D,100,67,91,52,15:00:00
+17-May-19,New Zealand dollar,RUB,D,77,7,89,21,15:00:00
+17-May-19,Pound Sterling,IDR,M,34,4,20,2,15:00:00
+17-May-19,Canadian dollar,BYR,D,88,14,63,20,15:00:00
+17-May-19,Pound Sterling,EUR,D,67,6,19,19,15:00:00
+17-May-19,Pound Sterling,EUR,M,9,93,99,76,15:00:00
+17-May-19,Australian dollar,EUR,D,48,56,70,45,15:00:00
+17-May-19,Canadian dollar,XAF,D,31,41,26,64,15:00:00
+17-May-19,Emirati dirham,PLN,D,52,89,93,16,15:00:00
+17-May-19,Australian dollar,PHP,M,48,55,50,38,15:00:00
+17-May-19,Pound Sterling,LKR,M,78,33,82,27,15:00:00
+17-May-19,Emirati dirham,PLN,D,91,46,98,87,15:00:00
+17-May-19,Euro,PHP,M,30,91,30,38,15:00:00
+17-May-19,Japanese yen,UAH,D,39,14,67,1,15:00:00
+17-May-19,Canadian dollar,PLN,D,55,59,12,82,15:00:00
+17-May-19,New Zealand dollar,SEK,D,1,37,87,5,15:00:00
+17-May-19,Emirati dirham,EUR,M,60,16,95,99,15:00:00
+17-May-19,Japanese yen,GBP,M,4,86,33,95,15:00:00
+17-May-19,Euro,CNY,M,88,74,62,81,15:00:00
+17-May-19,Australian dollar,HRK,M,85,9,88,10,15:00:00
+17-May-19,Emirati dirham,EUR,D,78,23,17,62,15:00:00
+17-May-19,Canadian dollar,CNY,D,98,48,7,16,15:00:00
+17-May-19,Pound Sterling,IRR,M,86,33,5,94,15:00:00
+17-May-19,Emirati dirham,EUR,M,72,25,24,78,15:00:00
+17-May-19,Emirati dirham,EUR,M,92,71,52,30,15:00:00
+17-May-19,Canadian dollar,CNY,D,65,90,78,4,15:00:00
+17-May-19,Canadian dollar,EUR,D,46,24,37,1,15:00:00
+17-May-19,Emirati dirham,DOP,M,92,26,84,63,15:00:00
+17-May-19,Emirati dirham,RUB,M,94,23,68,60,15:00:00
+17-May-19,Pound Sterling,CNY,M,61,34,49,95,15:00:00
+17-May-19,Japanese yen,MUR,M,57,95,15,21,15:00:00
+17-May-19,Japanese yen,BRL,D,74,59,62,35,15:00:00
+17-May-19,Canadian dollar,CDF,D,53,15,1,59,15:00:00
+17-May-19,Euro,PHP,M,95,70,94,11,15:00:00
+17-May-19,Pound Sterling,PHP,D,64,18,27,46,15:00:00
+17-May-19,Australian dollar,USD,M,98,7,93,73,15:00:00
+17-May-19,Pound Sterling,CNY,D,51,14,24,26,15:00:00
+17-May-19,Australian dollar,CNY,M,46,41,100,44,15:00:00
+17-May-19,Euro,PLN,D,42,86,54,29,15:00:00
+17-May-19,Emirati dirham,EUR,D,16,65,59,32,15:00:00
+17-May-19,Euro,CNY,D,79,38,42,46,15:00:00
+17-May-19,Euro,HUF,D,84,61,1,98,15:00:00
+17-May-19,New Zealand dollar,BRL,D,98,90,7,29,15:00:00
+17-May-19,New Zealand dollar,CNY,D,47,13,40,67,15:00:00
+17-May-19,Emirati dirham,NPR,M,74,22,39,1,15:00:00
+17-May-19,New Zealand dollar,EUR,M,61,55,53,39,15:00:00
+17-May-19,Emirati dirham,IDR,D,65,30,54,41,15:00:00
+17-May-19,Pound Sterling,EUR,M,11,59,51,98,15:00:00
+17-May-19,Canadian dollar,PHP,D,19,77,2,66,15:00:00
+17-May-19,Emirati dirham,EUR,D,71,38,68,7,15:00:00
+17-May-19,Australian dollar,UAH,D,7,64,8,47,15:00:00
+17-May-19,New Zealand dollar,SEK,D,69,83,18,19,15:00:00
+17-May-19,Euro,GBP,D,86,58,50,93,15:00:00
+17-May-19,Canadian dollar,CNY,D,12,24,86,1,15:00:00
+17-May-19,Japanese yen,RSD,D,25,7,11,47,15:00:00
+17-May-19,Pound Sterling,EGP,M,18,9,53,14,15:00:00
+17-May-19,Emirati dirham,GBP,M,99,66,10,43,15:00:00
+17-May-19,Canadian dollar,CNY,M,10,93,33,5,15:00:00
+17-May-19,Pound Sterling,RUB,M,12,48,21,7,15:00:00
+17-May-19,Canadian dollar,CZK,D,76,96,39,18,15:00:00
+17-May-19,Euro,CNY,D,97,78,72,2,15:00:00
+17-May-19,Pound Sterling,CNY,M,4,6,67,7,15:00:00
+17-May-19,Euro,BOB,M,83,84,98,70,15:00:00
+17-May-19,Euro,HRK,M,25,63,5,28,15:00:00
+17-May-19,Australian dollar,AZN,D,63,1,67,45,15:00:00
+17-May-19,Pound Sterling,CNY,D,87,51,36,55,15:00:00
+17-May-19,Australian dollar,NIO,D,76,56,54,1,15:00:00
+17-May-19,Emirati dirham,ILS,M,13,24,67,47,15:00:00
+17-May-19,Euro,CNY,M,71,80,89,87,15:00:00
+17-May-19,New Zealand dollar,BRL,M,13,33,79,6,15:00:00
+17-May-19,Euro,EUR,M,82,39,91,45,15:00:00
+17-May-19,Australian dollar,CNY,D,44,23,47,49,15:00:00
+17-May-19,Euro,CNY,D,65,54,96,89,15:00:00
+17-May-19,Canadian dollar,PLN,D,71,44,29,11,15:00:00
+17-May-19,Euro,IDR,M,95,57,63,24,15:00:00
+17-May-19,Canadian dollar,PLN,M,2,79,56,60,15:00:00
+17-May-19,Australian dollar,DOP,D,39,87,20,98,15:00:00
+17-May-19,Pound Sterling,EUR,D,24,1,47,10,15:00:00
+17-May-19,Pound Sterling,EUR,D,55,66,45,78,15:00:00
+17-May-19,Canadian dollar,CNY,M,63,80,6,21,15:00:00
+17-May-19,Pound Sterling,CNY,D,98,50,60,86,15:00:00
+17-May-19,Japanese yen,IDR,D,22,52,65,76,15:00:00
+17-May-19,Euro,RUB,D,48,13,36,17,15:00:00
+17-May-19,Pound Sterling,RUB,M,15,37,66,11,15:00:00
+17-May-19,Emirati dirham,XAF,M,62,61,60,89,15:00:00
+17-May-19,Australian dollar,ILS,D,62,79,51,22,15:00:00
+17-May-19,Pound Sterling,CNY,M,78,6,86,41,15:00:00
+17-May-19,Euro,PHP,D,96,72,6,2,15:00:00
+17-May-19,New Zealand dollar,RUB,M,77,47,88,83,15:00:00
+17-May-19,Pound Sterling,RUB,D,79,59,35,11,15:00:00
+17-May-19,Pound Sterling,IDR,M,37,15,3,57,15:00:00
+17-May-19,Pound Sterling,PHP,M,64,90,31,42,15:00:00
+17-May-19,Australian dollar,CNY,D,99,4,34,73,15:00:00
+17-May-19,Canadian dollar,EUR,D,89,75,67,29,15:00:00
+17-May-19,Australian dollar,IDR,M,49,71,41,13,15:00:00
+17-May-19,New Zealand dollar,AFN,D,61,86,25,90,15:00:00
+17-May-19,Euro,PEN,D,89,15,97,16,15:00:00
+17-May-19,Canadian dollar,COP,D,91,15,49,19,15:00:00
+17-May-19,Emirati dirham,MGA,D,39,10,45,56,15:00:00
+17-May-19,Canadian dollar,SYP,D,53,51,1,97,15:00:00
+17-May-19,Australian dollar,CNY,D,75,99,84,81,15:00:00
+17-May-19,Canadian dollar,IDR,M,99,72,8,86,15:00:00
+17-May-19,New Zealand dollar,CAD,D,69,36,33,20,15:00:00
+17-May-19,Japanese yen,EUR,M,18,71,67,95,15:00:00
+17-May-19,Japanese yen,CNY,M,89,17,62,85,15:00:00
+17-May-19,Japanese yen,IDR,M,1,4,85,11,15:00:00
+17-May-19,Canadian dollar,PEN,M,100,94,82,26,15:00:00
+17-May-19,Euro,CNY,D,62,46,2,24,15:00:00
+17-May-19,Japanese yen,MXN,M,97,27,99,56,15:00:00
+17-May-19,Japanese yen,SEK,D,45,6,25,80,15:00:00
+17-May-19,Emirati dirham,IDR,D,64,52,41,70,15:00:00
+17-May-19,New Zealand dollar,CNY,D,84,29,98,16,15:00:00
+17-May-19,Canadian dollar,CZK,M,96,62,50,67,15:00:00
+17-May-19,Australian dollar,ALL,D,98,14,52,18,15:00:00
+17-May-19,Canadian dollar,IDR,D,38,87,28,70,15:00:00
+17-May-19,Australian dollar,CNY,M,80,73,98,46,15:00:00
+17-May-19,Australian dollar,IDR,M,79,63,64,64,15:00:00
+17-May-19,Australian dollar,LRD,D,11,59,9,10,15:00:00
+17-May-19,Emirati dirham,THB,M,10,25,70,20,15:00:00
+17-May-19,Pound Sterling,JPY,M,29,96,18,1,15:00:00
+17-May-19,Emirati dirham,ZAR,D,42,10,62,44,15:00:00
+17-May-19,New Zealand dollar,CUP,M,99,85,70,76,15:00:00
+17-May-19,Pound Sterling,BRL,D,4,21,39,66,15:00:00
+17-May-19,Australian dollar,ERN,M,67,52,45,7,15:00:00
+17-May-19,Canadian dollar,CNY,D,10,42,19,42,15:00:00
+17-May-19,Pound Sterling,COP,M,5,76,88,31,15:00:00
+17-May-19,Pound Sterling,IDR,M,55,9,33,69,15:00:00
+17-May-19,Japanese yen,CZK,D,62,58,47,22,15:00:00
+17-May-19,Japanese yen,ARS,D,75,5,34,57,15:00:00
+17-May-19,Canadian dollar,CNY,D,61,22,93,99,15:00:00
+17-May-19,Emirati dirham,CZK,D,49,22,45,13,15:00:00
+17-May-19,Pound Sterling,CNY,D,68,32,65,89,15:00:00
+17-May-19,Pound Sterling,CNY,D,54,7,59,61,15:00:00
+17-May-19,Australian dollar,CNY,D,50,91,60,14,15:00:00
+17-May-19,Pound Sterling,PLN,M,23,85,11,64,15:00:00
+17-May-19,Japanese yen,THB,M,2,25,78,30,15:00:00
+17-May-19,Emirati dirham,CNY,D,35,68,71,100,15:00:00
+17-May-19,Pound Sterling,PLN,M,54,49,35,67,15:00:00
+17-May-19,Australian dollar,GTQ,M,23,48,76,57,15:00:00
+17-May-19,New Zealand dollar,IDR,D,7,47,14,19,15:00:00
+17-May-19,Canadian dollar,IDR,D,9,97,31,97,15:00:00
+17-May-19,New Zealand dollar,PHP,M,77,90,39,15,15:00:00
+17-May-19,Japanese yen,SEK,D,37,14,70,43,15:00:00
+17-May-19,Pound Sterling,IDR,D,56,47,23,7,15:00:00
+17-May-19,Pound Sterling,BRL,M,100,27,13,62,15:00:00
+17-May-19,Japanese yen,ALL,D,77,15,89,83,15:00:00
+17-May-19,Emirati dirham,THB,D,66,41,42,76,15:00:00
+17-May-19,New Zealand dollar,JPY,D,57,3,82,56,15:00:00
+17-May-19,Japanese yen,HNL,M,69,20,81,39,15:00:00
+17-May-19,Australian dollar,IDR,M,7,100,87,74,15:00:00
+17-May-19,Canadian dollar,PAB,D,21,2,68,66,15:00:00
+17-May-19,Australian dollar,CNY,D,59,5,6,80,15:00:00
+17-May-19,Euro,AMD,M,78,87,8,46,15:00:00
+17-May-19,Emirati dirham,ARS,D,3,58,43,39,15:00:00
+17-May-19,Japanese yen,EUR,M,60,54,24,98,15:00:00
+17-May-19,Canadian dollar,EUR,M,43,79,60,15,15:00:00
+17-May-19,Canadian dollar,ALL,D,13,65,33,68,15:00:00
+17-May-19,Japanese yen,ILS,M,1,54,61,47,15:00:00
+17-May-19,Euro,JPY,D,20,32,1,72,15:00:00
+17-May-19,Australian dollar,PHP,D,62,14,14,44,15:00:00
+17-May-19,New Zealand dollar,ZAR,D,62,98,5,26,15:00:00
+17-May-19,Australian dollar,PHP,D,8,49,31,19,15:00:00
+17-May-19,Canadian dollar,TND,D,10,82,98,11,15:00:00
+17-May-19,New Zealand dollar,PHP,M,92,52,84,77,15:00:00
+17-May-19,Australian dollar,PLN,D,23,64,41,27,15:00:00
+17-May-19,New Zealand dollar,SEK,M,74,89,32,12,15:00:00
+17-May-19,Pound Sterling,ILS,M,30,67,35,57,15:00:00
+17-May-19,Japanese yen,YER,M,47,47,9,56,15:00:00
+17-May-19,Canadian dollar,EUR,M,89,2,58,16,15:00:00
+17-May-19,Canadian dollar,PHP,M,73,37,35,2,15:00:00
+17-May-19,Canadian dollar,EUR,M,87,2,38,97,15:00:00
+17-May-19,Emirati dirham,RUB,D,86,56,3,13,15:00:00
+17-May-19,Australian dollar,CNY,D,61,53,2,57,15:00:00
+17-May-19,Canadian dollar,COP,D,13,82,88,21,15:00:00
+17-May-19,Canadian dollar,IDR,D,77,17,79,47,15:00:00
+17-May-19,New Zealand dollar,XOF,D,42,97,72,30,15:00:00
+17-May-19,Pound Sterling,CNY,M,70,99,78,27,15:00:00
+17-May-19,New Zealand dollar,IRR,D,89,97,91,76,15:00:00
+17-May-19,Australian dollar,RUB,M,48,50,5,71,15:00:00
+17-May-19,Emirati dirham,BRL,M,29,96,54,62,15:00:00
+17-May-19,Emirati dirham,CNY,M,6,55,23,95,15:00:00
+17-May-19,Australian dollar,EUR,M,68,29,42,36,15:00:00
+17-May-19,Pound Sterling,NGN,M,14,52,58,88,15:00:00
+17-May-19,Euro,AFN,D,24,57,22,14,15:00:00
+17-May-19,Euro,CNY,D,33,4,13,41,15:00:00
+17-May-19,Pound Sterling,MYR,D,58,3,10,8,15:00:00
+17-May-19,Australian dollar,YER,M,7,55,45,5,15:00:00
+17-May-19,Australian dollar,CNY,D,71,67,46,56,15:00:00
+17-May-19,Emirati dirham,PKR,M,49,85,78,73,15:00:00
+17-May-19,Pound Sterling,BYR,M,6,94,68,75,15:00:00
+17-May-19,New Zealand dollar,XOF,D,80,8,72,88,15:00:00
+17-May-19,Euro,BRL,D,35,21,12,40,15:00:00
+17-May-19,Pound Sterling,EUR,D,52,86,92,21,15:00:00
+17-May-19,Euro,IDR,D,27,32,4,83,15:00:00
+17-May-19,New Zealand dollar,USD,M,14,64,100,66,15:00:00
+17-May-19,Euro,IDR,M,89,14,45,20,15:00:00
+17-May-19,Pound Sterling,PLN,D,67,91,3,89,15:00:00
+17-May-19,Japanese yen,KPW,M,100,15,75,19,15:00:00
+17-May-19,Pound Sterling,DOP,M,84,11,10,45,15:00:00
+17-May-19,New Zealand dollar,USD,D,49,15,69,93,15:00:00
+17-May-19,Japanese yen,BRL,D,81,65,75,85,15:00:00
+17-May-19,New Zealand dollar,CZK,M,69,24,68,43,15:00:00
+17-May-19,Emirati dirham,RUB,M,87,64,25,67,15:00:00
+17-May-19,Emirati dirham,CNY,D,62,73,16,19,15:00:00
+17-May-19,Pound Sterling,JPY,M,18,73,85,55,15:00:00
+17-May-19,Canadian dollar,EUR,D,36,48,28,11,15:00:00
+17-May-19,Euro,PHP,M,38,49,30,25,15:00:00
+17-May-19,Japanese yen,EUR,D,59,24,8,77,15:00:00
+17-May-19,Emirati dirham,EUR,M,79,5,11,41,15:00:00
+17-May-19,Euro,CNY,M,36,34,36,65,15:00:00
+17-May-19,New Zealand dollar,CNY,M,64,58,65,63,15:00:00
+17-May-19,Japanese yen,GEL,M,46,13,44,81,15:00:00
+17-May-19,Pound Sterling,IDR,M,38,28,58,45,15:00:00
+17-May-19,Canadian dollar,ZWL,M,50,21,92,74,15:00:00
+17-May-19,Euro,EUR,D,12,41,93,12,15:00:00
+17-May-19,Emirati dirham,IDR,M,46,51,62,53,15:00:00
+17-May-19,Japanese yen,CNY,D,2,98,20,11,15:00:00
+17-May-19,Australian dollar,PAB,D,40,13,79,9,15:00:00
+17-May-19,Australian dollar,ARS,D,64,35,54,27,15:00:00
+17-May-19,Pound Sterling,CAD,M,32,27,31,65,15:00:00
+17-May-19,New Zealand dollar,USD,M,97,73,89,48,15:00:00
+17-May-19,Canadian dollar,CNY,M,75,87,36,50,15:00:00
+17-May-19,Japanese yen,JOD,M,44,60,95,82,15:00:00
+17-May-19,Emirati dirham,IDR,M,23,78,97,11,15:00:00
+17-May-19,Australian dollar,HNL,D,8,99,23,62,15:00:00
+17-May-19,Canadian dollar,NIO,D,34,25,71,23,15:00:00
+17-May-19,New Zealand dollar,EUR,M,6,74,83,90,15:00:00
+17-May-19,Emirati dirham,RUB,D,42,98,51,86,15:00:00
+17-May-19,Australian dollar,BRL,D,61,32,46,41,15:00:00
+17-May-19,New Zealand dollar,SEK,D,63,13,61,77,15:00:00
+17-May-19,New Zealand dollar,EUR,M,62,58,3,5,15:00:00
+17-May-19,Japanese yen,SEK,M,55,9,34,37,15:00:00
+17-May-19,Australian dollar,CNY,D,39,97,47,1,15:00:00
+17-May-19,New Zealand dollar,PHP,M,55,8,47,89,15:00:00
+17-May-19,Canadian dollar,CNY,D,3,92,55,19,15:00:00
+17-May-19,Canadian dollar,USD,D,69,40,99,38,15:00:00
+17-May-19,Emirati dirham,EUR,M,70,70,68,21,15:00:00
+17-May-19,Emirati dirham,MXN,D,37,29,64,24,15:00:00
+17-May-19,Euro,EUR,M,69,38,84,94,15:00:00
+17-May-19,Japanese yen,COP,D,1,74,99,86,15:00:00
+17-May-19,Euro,MXN,D,61,82,92,38,15:00:00
+17-May-19,Emirati dirham,SEK,M,62,35,66,44,15:00:00
+17-May-19,New Zealand dollar,IDR,D,22,38,75,59,15:00:00
+17-May-19,Pound Sterling,IDR,D,6,66,42,53,15:00:00
+17-May-19,Euro,BYR,M,89,78,70,60,15:00:00
+17-May-19,Australian dollar,CNY,D,20,68,86,5,15:00:00
+17-May-19,Australian dollar,SAR,D,4,3,26,30,15:00:00
+17-May-19,Australian dollar,IDR,M,72,91,12,83,15:00:00
+17-May-19,Canadian dollar,PAB,M,33,68,75,50,15:00:00
+17-May-19,Emirati dirham,ZWL,D,44,30,8,53,15:00:00
+17-May-19,Canadian dollar,IDR,M,69,100,15,56,15:00:00
+17-May-19,Japanese yen,PHP,D,35,74,88,29,15:00:00
+17-May-19,Japanese yen,CNY,D,60,45,27,41,15:00:00
+17-May-19,Japanese yen,EUR,M,41,4,79,78,15:00:00
+17-May-19,Australian dollar,SEK,M,99,3,68,89,15:00:00
+17-May-19,Japanese yen,CAD,D,16,8,36,83,15:00:00
+17-May-19,Euro,BRL,D,22,34,6,10,15:00:00
+17-May-19,Pound Sterling,IDR,M,95,66,31,53,15:00:00
+17-May-19,Canadian dollar,CNY,D,24,95,6,28,15:00:00
+17-May-19,Australian dollar,EUR,D,50,69,40,30,15:00:00
+17-May-19,Australian dollar,PAB,M,19,80,94,18,15:00:00
+17-May-19,Canadian dollar,BDT,D,28,13,18,32,15:00:00
+17-May-19,Canadian dollar,BAM,M,45,20,28,23,15:00:00
+17-May-19,Canadian dollar,THB,M,5,54,96,76,15:00:00
+17-May-19,Pound Sterling,EUR,M,15,50,57,98,15:00:00
+17-May-19,Australian dollar,IDR,D,16,50,63,90,15:00:00
+17-May-19,Euro,EUR,D,100,73,43,66,15:00:00
+17-May-19,Pound Sterling,EUR,D,61,23,72,83,15:00:00
+17-May-19,Japanese yen,CNY,M,7,83,57,11,15:00:00
+17-May-19,Canadian dollar,CNY,D,85,1,34,38,15:00:00
+17-May-19,Canadian dollar,RUB,M,46,58,38,93,15:00:00
+17-May-19,Canadian dollar,USD,M,40,77,28,10,15:00:00
+17-May-19,Canadian dollar,IDR,D,15,73,19,31,15:00:00
+17-May-19,Canadian dollar,IDR,M,33,97,5,77,15:00:00
+17-May-19,Australian dollar,USD,M,83,21,53,84,15:00:00
+17-May-19,New Zealand dollar,CZK,D,22,55,43,52,15:00:00
+17-May-19,New Zealand dollar,MXN,D,33,11,32,58,15:00:00
+17-May-19,Japanese yen,CAD,M,99,67,94,12,15:00:00
+17-May-19,Australian dollar,IDR,D,97,76,56,96,15:00:00
+17-May-19,Emirati dirham,GNF,M,11,95,16,19,15:00:00
+17-May-19,Japanese yen,VND,M,35,92,18,63,15:00:00
+17-May-19,Japanese yen,CNY,M,65,59,45,25,15:00:00
+17-May-19,Euro,COP,D,25,47,81,12,15:00:00
+17-May-19,Euro,BAM,M,12,63,66,16,15:00:00
+17-May-19,Canadian dollar,UZS,D,54,90,70,86,15:00:00
+17-May-19,Australian dollar,EUR,D,95,2,60,9,15:00:00
+17-May-19,Euro,GBP,D,80,15,12,37,15:00:00
+17-May-19,Australian dollar,EUR,M,20,42,75,100,15:00:00
+17-May-19,Emirati dirham,ARS,D,32,27,28,71,15:00:00
+17-May-19,New Zealand dollar,CNY,M,7,25,24,55,15:00:00
+17-May-19,Canadian dollar,ZAR,M,21,20,33,3,15:00:00
+17-May-19,Japanese yen,CNY,D,88,10,99,76,15:00:00
+17-May-19,Emirati dirham,CNY,D,82,33,9,81,15:00:00
+17-May-19,Emirati dirham,BRL,M,68,88,91,23,15:00:00
+17-May-19,Euro,CLP,M,57,55,72,1,15:00:00
+17-May-19,New Zealand dollar,ARS,D,74,30,77,93,15:00:00
+17-May-19,Pound Sterling,RWF,M,49,33,50,5,15:00:00
+17-May-19,Emirati dirham,MXN,M,7,3,21,73,15:00:00
+17-May-19,Pound Sterling,CNY,D,52,36,45,89,15:00:00
+17-May-19,Pound Sterling,RUB,D,8,29,38,58,15:00:00
+17-May-19,Pound Sterling,BGN,D,9,57,69,5,15:00:00
+17-May-19,New Zealand dollar,RUB,M,40,87,77,18,15:00:00
+17-May-19,New Zealand dollar,SYP,M,12,32,15,98,15:00:00
+17-May-19,Australian dollar,USD,D,81,46,12,33,15:00:00
+17-May-19,Pound Sterling,UAH,D,41,94,5,24,15:00:00
+17-May-19,Pound Sterling,USD,M,97,22,79,46,15:00:00
+17-May-19,Australian dollar,IRR,M,86,74,65,41,15:00:00
+17-May-19,Pound Sterling,GEL,M,55,26,87,26,15:00:00
+17-May-19,Emirati dirham,XPF,M,78,23,45,47,15:00:00
+17-May-19,Emirati dirham,EUR,M,87,66,6,73,15:00:00
+17-May-19,New Zealand dollar,UAH,D,51,100,31,57,15:00:00
+17-May-19,Canadian dollar,AUD,M,43,98,33,8,15:00:00
+17-May-19,New Zealand dollar,EUR,D,63,95,75,75,15:00:00
+17-May-19,Japanese yen,IDR,M,14,20,66,54,15:00:00
+17-May-19,Pound Sterling,RUB,M,46,55,33,81,15:00:00
+17-May-19,Euro,IDR,M,86,41,57,20,15:00:00
+17-May-19,Australian dollar,CNY,M,82,32,50,11,15:00:00
+17-May-19,Australian dollar,EUR,M,1,10,42,90,15:00:00
+17-May-19,New Zealand dollar,EUR,M,48,82,59,86,15:00:00
+17-May-19,New Zealand dollar,PKR,D,63,72,12,68,15:00:00
+17-May-19,Euro,CNY,D,85,1,16,42,15:00:00
+17-May-19,Emirati dirham,EUR,M,6,18,3,28,15:00:00
+17-May-19,Emirati dirham,CNY,M,92,90,85,66,15:00:00
+17-May-19,Canadian dollar,AFN,M,72,95,68,10,15:00:00
+17-May-19,Euro,USD,D,12,78,45,28,15:00:00
+17-May-19,Euro,PHP,D,38,86,95,30,15:00:00
+17-May-19,Euro,CNY,M,12,40,62,89,15:00:00
+17-May-19,Euro,ZMW,M,55,7,34,89,15:00:00
+17-May-19,Japanese yen,ILS,M,98,17,38,65,15:00:00
+17-May-19,New Zealand dollar,YER,M,35,25,54,37,15:00:00
+17-May-19,Pound Sterling,CZK,D,42,96,27,57,15:00:00
+17-May-19,New Zealand dollar,RUB,M,22,61,90,4,15:00:00
+17-May-19,Pound Sterling,ALL,M,43,22,46,89,15:00:00
+17-May-19,Pound Sterling,PHP,D,84,94,77,4,15:00:00
+17-May-19,Japanese yen,IDR,D,35,71,12,51,15:00:00
+17-May-19,Australian dollar,NOK,M,60,22,45,49,15:00:00
+17-May-19,Japanese yen,COP,M,76,86,49,19,15:00:00
+17-May-19,Australian dollar,SEK,M,35,89,16,51,15:00:00
+17-May-19,Pound Sterling,PEN,M,32,9,42,15,15:00:00
+17-May-19,New Zealand dollar,CZK,D,86,45,51,53,15:00:00
+17-May-19,New Zealand dollar,BDT,D,20,4,2,66,15:00:00
+17-May-19,Emirati dirham,EUR,M,22,15,68,60,15:00:00
+17-May-19,Japanese yen,IDR,M,47,41,46,49,15:00:00
+17-May-19,New Zealand dollar,EUR,D,7,41,50,64,15:00:00
+17-May-19,New Zealand dollar,CNY,D,70,74,81,55,15:00:00
+17-May-19,Japanese yen,UAH,D,38,16,22,62,15:00:00
+17-May-19,Emirati dirham,CNY,D,36,40,30,68,15:00:00
+17-May-19,Australian dollar,EUR,D,17,93,33,61,15:00:00
+17-May-19,Canadian dollar,CNY,M,39,64,34,40,15:00:00
+17-May-19,Emirati dirham,THB,M,60,95,99,69,15:00:00
+17-May-19,Canadian dollar,THB,M,33,11,38,49,15:00:00
+17-May-19,Pound Sterling,ARS,M,65,13,2,52,15:00:00
+17-May-19,New Zealand dollar,NIO,D,63,11,53,19,15:00:00
+17-May-19,Emirati dirham,RUB,D,10,67,78,19,15:00:00
+17-May-19,Japanese yen,CNY,D,57,26,53,94,15:00:00
+17-May-19,Euro,CNY,D,21,32,13,40,15:00:00
+17-May-19,Euro,EUR,D,45,62,99,50,15:00:00
+17-May-19,Canadian dollar,CNY,D,14,60,6,15,15:00:00
+17-May-19,Australian dollar,NZD,M,42,75,7,28,15:00:00
+17-May-19,Euro,CNY,M,58,60,93,9,15:00:00
+17-May-19,Japanese yen,SEK,D,14,15,92,17,15:00:00
+17-May-19,Pound Sterling,EUR,D,99,94,69,35,15:00:00
+17-May-19,Euro,MUR,D,55,83,75,31,15:00:00
+17-May-19,New Zealand dollar,RUB,M,76,95,63,92,15:00:00
+17-May-19,Australian dollar,CNY,M,6,94,7,45,15:00:00
+17-May-19,Japanese yen,RUB,M,22,57,65,36,15:00:00
+17-May-19,Euro,PHP,M,100,58,85,82,15:00:00
+17-May-19,Pound Sterling,CRC,D,69,50,47,11,15:00:00
+17-May-19,Canadian dollar,RUB,D,72,95,72,90,15:00:00
+17-May-19,Euro,CNY,M,24,58,18,49,15:00:00
+17-May-19,Japanese yen,PLN,D,52,19,39,42,15:00:00
+17-May-19,Australian dollar,BRL,D,77,83,26,34,15:00:00
+17-May-19,Australian dollar,NGN,M,34,41,94,86,15:00:00
+17-May-19,Japanese yen,AFN,M,88,100,16,66,15:00:00
+17-May-19,Japanese yen,LTL,D,48,82,35,41,15:00:00
+17-May-19,Japanese yen,COP,M,35,89,52,58,15:00:00
+17-May-19,New Zealand dollar,IDR,D,30,35,91,91,15:00:00
+17-May-19,New Zealand dollar,IDR,D,88,12,69,95,15:00:00
+17-May-19,Euro,PLN,M,6,84,33,26,15:00:00
+17-May-19,Canadian dollar,PLN,M,99,68,41,38,15:00:00
+17-May-19,Emirati dirham,EUR,D,54,91,72,98,15:00:00
+17-May-19,Japanese yen,IDR,M,62,67,32,2,15:00:00
+17-May-19,New Zealand dollar,CNY,D,52,88,3,67,15:00:00
+17-May-19,Pound Sterling,CNY,D,82,58,10,3,15:00:00
+17-May-19,Japanese yen,CNY,M,11,58,29,54,15:00:00
+17-May-19,Australian dollar,ZMW,D,30,96,27,46,15:00:00
+17-May-19,New Zealand dollar,CNY,D,87,1,70,5,15:00:00
+17-May-19,Canadian dollar,RUB,M,8,74,30,46,15:00:00
+17-May-19,Canadian dollar,JPY,M,6,88,1,2,15:00:00
+17-May-19,Emirati dirham,VND,M,81,81,4,96,15:00:00
+17-May-19,Emirati dirham,CNY,D,48,31,94,46,15:00:00
+17-May-19,Canadian dollar,CLP,D,70,4,58,4,15:00:00
+17-May-19,New Zealand dollar,JPY,M,69,72,78,15,15:00:00
+17-May-19,New Zealand dollar,PEN,D,60,72,25,15,15:00:00
+17-May-19,New Zealand dollar,SYP,D,84,78,50,29,15:00:00
+17-May-19,New Zealand dollar,USD,D,27,36,21,79,15:00:00
+17-May-19,Japanese yen,CNY,D,69,4,34,100,15:00:00
+17-May-19,Canadian dollar,PLN,M,91,86,73,30,15:00:00
+17-May-19,Japanese yen,EUR,M,92,90,42,88,15:00:00
+17-May-19,Canadian dollar,HRK,D,78,71,26,38,15:00:00
+17-May-19,Canadian dollar,RUB,M,46,90,69,37,15:00:00
+17-May-19,Canadian dollar,PLN,M,36,44,24,43,15:00:00
+17-May-19,New Zealand dollar,IDR,D,84,77,18,31,15:00:00
+17-May-19,Euro,THB,M,72,66,2,8,15:00:00
+17-May-19,Australian dollar,IDR,M,18,79,21,26,15:00:00
+17-May-19,Canadian dollar,VEF,M,36,70,34,29,15:00:00
+17-May-19,New Zealand dollar,CNY,D,62,99,12,91,15:00:00
+17-May-19,Japanese yen,USD,D,5,83,53,25,15:00:00
+17-May-19,Euro,GTQ,D,4,28,56,37,15:00:00
+17-May-19,Emirati dirham,JPY,M,83,78,61,40,15:00:00
+17-May-19,Emirati dirham,SEK,M,96,17,6,3,15:00:00
+17-May-19,Euro,EUR,M,87,50,31,49,15:00:00
+17-May-19,Emirati dirham,ARS,D,97,17,11,52,15:00:00
+17-May-19,New Zealand dollar,RUB,M,29,26,20,60,15:00:00
+17-May-19,Australian dollar,IDR,M,46,62,5,21,15:00:00
+17-May-19,Pound Sterling,UAH,M,22,55,44,37,15:00:00
+17-May-19,Pound Sterling,THB,M,40,13,60,1,15:00:00
+17-May-19,Euro,EUR,D,89,58,53,75,15:00:00
+17-May-19,New Zealand dollar,IDR,D,34,44,99,70,15:00:00
+17-May-19,Pound Sterling,CNY,D,5,91,29,8,15:00:00
+17-May-19,Japanese yen,CNY,D,43,75,89,79,15:00:00
+17-May-19,Pound Sterling,BRL,M,65,69,91,67,15:00:00
+17-May-19,Canadian dollar,CNY,M,92,97,60,76,15:00:00
+17-May-19,New Zealand dollar,JPY,M,80,20,100,19,15:00:00
+17-May-19,Emirati dirham,CNY,M,59,97,48,13,15:00:00
+17-May-19,Canadian dollar,PLN,D,5,22,70,19,15:00:00
+17-May-19,Emirati dirham,MNT,M,61,14,26,85,15:00:00
+17-May-19,Emirati dirham,EUR,M,6,21,72,86,15:00:00
+17-May-19,Emirati dirham,NZD,M,22,45,56,72,15:00:00
+17-May-19,Pound Sterling,CNY,M,89,76,100,34,15:00:00
+17-May-19,Japanese yen,EUR,M,88,79,42,46,15:00:00
+17-May-19,Australian dollar,CNY,D,4,64,16,54,15:00:00
+17-May-19,Australian dollar,PHP,D,29,7,61,87,15:00:00
+17-May-19,Euro,PLN,D,55,4,100,6,15:00:00
+17-May-19,Euro,KPW,D,31,45,16,100,15:00:00
+17-May-19,Emirati dirham,EUR,D,98,95,12,51,15:00:00
+17-May-19,New Zealand dollar,EUR,M,63,19,49,28,15:00:00
+17-May-19,Japanese yen,BRL,D,83,16,77,1,15:00:00
+17-May-19,Japanese yen,AMD,M,77,40,32,52,15:00:00
+17-May-19,Pound Sterling,USD,M,60,26,45,64,15:00:00
+17-May-19,Canadian dollar,IDR,M,57,69,99,33,15:00:00
+17-May-19,Canadian dollar,GYD,D,81,47,55,26,15:00:00
+17-May-19,Canadian dollar,PEN,D,40,38,5,93,15:00:00
+17-May-19,Pound Sterling,USD,M,61,89,9,44,15:00:00
+17-May-19,New Zealand dollar,IRR,M,95,61,51,99,15:00:00
+17-May-19,New Zealand dollar,PHP,M,76,95,22,19,15:00:00
+17-May-19,Emirati dirham,SEK,D,72,54,41,58,15:00:00
+17-May-19,New Zealand dollar,COP,D,63,54,46,68,15:00:00
+17-May-19,Pound Sterling,TJS,D,48,38,50,85,15:00:00
+17-May-19,Euro,RUB,D,51,89,99,87,15:00:00
+17-May-19,Australian dollar,EGP,M,56,29,18,63,15:00:00
+17-May-19,Euro,PHP,D,53,35,85,62,15:00:00
+17-May-19,New Zealand dollar,BRL,D,52,98,79,3,15:00:00
+17-May-19,Euro,CNY,D,66,9,60,63,15:00:00
+17-May-19,Euro,CNY,M,60,46,10,85,15:00:00
+17-May-19,Japanese yen,IDR,M,52,57,49,51,15:00:00
+17-May-19,Japanese yen,SEK,M,29,45,29,93,15:00:00
+17-May-19,Pound Sterling,MAD,D,17,25,90,91,15:00:00
+17-May-19,Pound Sterling,VND,D,88,7,49,61,15:00:00
+17-May-19,Japanese yen,PEN,D,82,51,28,90,15:00:00
+17-May-19,Emirati dirham,PYG,M,97,41,84,52,15:00:00
+17-May-19,Japanese yen,BRL,M,42,82,58,69,15:00:00
+17-May-19,New Zealand dollar,RUB,M,38,92,85,51,15:00:00
+17-May-19,Pound Sterling,THB,M,10,28,37,56,15:00:00
+17-May-19,Euro,JPY,M,7,91,59,68,15:00:00
+17-May-19,Pound Sterling,CNY,D,23,23,48,86,15:00:00
+17-May-19,New Zealand dollar,JPY,M,81,69,83,35,15:00:00
+17-May-19,Canadian dollar,GTQ,M,84,99,2,45,15:00:00
+17-May-19,Emirati dirham,IDR,D,16,50,45,20,15:00:00
+17-May-19,Canadian dollar,JPY,D,85,80,43,17,15:00:00
+17-May-19,Emirati dirham,COP,D,96,70,62,27,15:00:00
+17-May-19,Japanese yen,IDR,D,44,68,20,77,15:00:00
+17-May-19,New Zealand dollar,CNY,D,33,100,61,32,15:00:00
+17-May-19,Canadian dollar,IDR,D,16,58,86,57,15:00:00
+17-May-19,Euro,PEN,D,60,13,75,17,15:00:00
+17-May-19,New Zealand dollar,SLL,M,4,76,8,48,15:00:00
+17-May-19,Emirati dirham,SDG,M,90,33,52,80,15:00:00
+17-May-19,New Zealand dollar,EUR,D,37,98,56,95,15:00:00
+17-May-19,Euro,IDR,M,36,12,77,16,15:00:00
+17-May-19,Emirati dirham,PLN,D,16,84,6,17,15:00:00
+17-May-19,Australian dollar,CRC,D,44,10,76,61,15:00:00
+17-May-19,Australian dollar,PHP,D,47,75,61,26,15:00:00
+17-May-19,Emirati dirham,JPY,D,29,36,29,71,15:00:00
+17-May-19,Japanese yen,CAD,M,29,6,30,39,15:00:00
+17-May-19,Emirati dirham,RUB,D,66,57,50,100,15:00:00
+17-May-19,Euro,PEN,M,79,44,87,15,15:00:00
+17-May-19,Pound Sterling,IDR,D,5,27,2,92,15:00:00
+17-May-19,New Zealand dollar,USD,M,6,59,66,84,15:00:00
+17-May-19,Pound Sterling,HTG,M,34,45,92,96,15:00:00
+17-May-19,Japanese yen,CZK,M,49,27,56,2,15:00:00
+17-May-19,Japanese yen,SEK,M,45,18,48,27,15:00:00
+17-May-19,Japanese yen,RUB,M,95,72,11,78,15:00:00
+17-May-19,Pound Sterling,PEN,D,92,64,72,6,15:00:00
+17-May-19,Pound Sterling,PEN,D,60,64,51,69,15:00:00
+17-May-19,Emirati dirham,CNY,M,74,48,25,59,15:00:00
+17-May-19,Canadian dollar,NGN,M,97,43,46,85,15:00:00
+17-May-19,Canadian dollar,SEK,D,89,32,54,88,15:00:00
+17-May-19,New Zealand dollar,RSD,M,88,88,44,84,15:00:00
+17-May-19,Canadian dollar,RUB,D,43,8,34,83,15:00:00
+17-May-19,New Zealand dollar,CNY,D,93,10,21,74,15:00:00
+17-May-19,Japanese yen,JPY,D,18,21,33,80,15:00:00
+17-May-19,New Zealand dollar,ARS,M,61,1,40,4,15:00:00
+17-May-19,Japanese yen,EUR,D,69,17,40,40,15:00:00
+17-May-19,Pound Sterling,KPW,D,32,3,30,12,15:00:00
+17-May-19,Australian dollar,EUR,M,80,35,18,84,15:00:00
+17-May-19,Australian dollar,CNY,D,55,71,80,62,15:00:00
+17-May-19,Japanese yen,CNY,D,56,5,9,18,15:00:00
+17-May-19,Pound Sterling,EUR,M,36,74,74,1,15:00:00
+17-May-19,Euro,CNY,M,100,98,65,74,15:00:00
+17-May-19,Australian dollar,CNY,D,50,96,77,26,15:00:00
+17-May-19,Japanese yen,EUR,D,96,71,14,25,15:00:00
+17-May-19,Japanese yen,CNY,D,52,19,12,60,15:00:00
+17-May-19,Australian dollar,EUR,D,71,93,100,13,15:00:00
+17-May-19,Canadian dollar,CDF,M,85,10,64,45,15:00:00
+17-May-19,Canadian dollar,MDL,M,24,93,75,46,15:00:00
+17-May-19,Australian dollar,CZK,M,5,54,35,65,15:00:00
+17-May-19,Japanese yen,IDR,M,45,11,12,20,15:00:00
+17-May-19,Pound Sterling,YER,D,99,40,39,37,15:00:00
+17-May-19,Pound Sterling,PHP,D,77,25,67,27,15:00:00
+17-May-19,New Zealand dollar,CNY,D,18,70,49,23,15:00:00
+17-May-19,Euro,SAR,M,18,59,27,8,15:00:00
+17-May-19,Emirati dirham,CNY,M,72,48,39,38,15:00:00
+17-May-19,Pound Sterling,HNL,M,5,2,13,46,15:00:00
+17-May-19,Pound Sterling,CNY,D,98,1,7,45,15:00:00
+17-May-19,Japanese yen,CNY,M,42,93,55,88,15:00:00
+17-May-19,Pound Sterling,COP,D,24,13,81,66,15:00:00
+17-May-19,New Zealand dollar,UAH,D,87,30,25,5,15:00:00
+17-May-19,New Zealand dollar,CNY,M,34,57,18,54,15:00:00
+17-May-19,Euro,TZS,D,10,15,53,35,15:00:00
+17-May-19,New Zealand dollar,MUR,D,28,6,31,25,15:00:00
+17-May-19,Australian dollar,IDR,D,90,41,53,85,15:00:00
+17-May-19,Emirati dirham,PLN,D,64,74,17,43,15:00:00
+17-May-19,New Zealand dollar,ZAR,D,10,31,49,62,15:00:00
+17-May-19,Emirati dirham,ALL,M,52,82,1,1,15:00:00
+17-May-19,Japanese yen,UAH,M,5,37,86,59,15:00:00
+17-May-19,Emirati dirham,RUB,M,79,70,31,30,15:00:00
+17-May-19,New Zealand dollar,RUB,M,24,50,82,8,15:00:00
+17-May-19,New Zealand dollar,BHD,M,81,34,92,9,15:00:00
+17-May-19,Canadian dollar,IDR,M,88,97,16,52,15:00:00
+17-May-19,Euro,ZAR,M,97,3,59,32,15:00:00
+17-May-19,Emirati dirham,EUR,M,23,55,40,32,15:00:00
+17-May-19,Canadian dollar,BGN,M,51,100,24,16,15:00:00
+17-May-19,Canadian dollar,CNY,M,35,37,14,13,15:00:00
+17-May-19,Euro,CUP,D,56,87,29,15,15:00:00
+17-May-19,Pound Sterling,CRC,M,89,21,1,36,15:00:00
+17-May-19,Euro,BRL,D,74,36,86,7,15:00:00
+17-May-19,New Zealand dollar,EUR,D,7,100,56,28,15:00:00
+17-May-19,Pound Sterling,CNY,D,55,19,81,59,15:00:00
+17-May-19,Emirati dirham,UAH,M,33,27,15,72,15:00:00
+17-May-19,Japanese yen,EUR,M,13,74,80,77,15:00:00
+17-May-19,Emirati dirham,EUR,M,91,8,12,58,15:00:00
+17-May-19,Emirati dirham,PHP,M,38,6,95,17,15:00:00
+17-May-19,Euro,KZT,D,40,74,64,68,15:00:00
+17-May-19,Pound Sterling,IDR,M,69,58,75,89,15:00:00
+17-May-19,Australian dollar,LAK,D,32,99,92,74,15:00:00
+17-May-19,Australian dollar,IDR,M,5,80,42,57,15:00:00
+17-May-19,Euro,IDR,D,23,5,6,24,15:00:00
+17-May-19,Australian dollar,BRL,M,57,99,17,8,15:00:00
+17-May-19,Emirati dirham,MZN,M,45,89,65,49,15:00:00
+17-May-19,Emirati dirham,RUB,M,66,89,15,94,15:00:00
+17-May-19,Australian dollar,EUR,D,27,42,70,16,15:00:00
+17-May-19,Euro,BRL,M,38,29,52,69,15:00:00
+17-May-19,Canadian dollar,IDR,D,99,90,73,11,15:00:00
+17-May-19,New Zealand dollar,SEK,D,75,33,14,27,15:00:00
+17-May-19,Euro,MKD,D,98,39,57,12,15:00:00
+17-May-19,Euro,COP,M,71,81,26,21,15:00:00
+17-May-19,Australian dollar,CLP,M,23,45,16,29,15:00:00
+17-May-19,Australian dollar,USD,M,83,77,59,78,15:00:00
+17-May-19,Canadian dollar,EUR,D,56,13,2,2,15:00:00
+17-May-19,Emirati dirham,JPY,D,20,5,40,26,15:00:00
+17-May-19,Emirati dirham,SEK,M,34,68,54,40,15:00:00
+17-May-19,Pound Sterling,BRL,D,81,26,46,79,15:00:00
+17-May-19,Pound Sterling,PHP,M,94,59,31,73,15:00:00
+17-May-19,Pound Sterling,IDR,D,30,19,35,60,15:00:00
+17-May-19,Australian dollar,XOF,M,47,17,21,32,15:00:00
+17-May-19,Pound Sterling,IDR,D,23,95,45,26,15:00:00
+17-May-19,Euro,EUR,D,49,30,90,16,15:00:00
+17-May-19,Emirati dirham,PHP,D,68,26,16,76,15:00:00
+17-May-19,Canadian dollar,IDR,M,78,52,56,37,15:00:00
+17-May-19,Japanese yen,XPF,M,8,90,21,37,15:00:00
+17-May-19,Euro,IDR,M,24,67,64,3,15:00:00
+17-May-19,Australian dollar,ETB,M,47,68,88,2,15:00:00
+17-May-19,Emirati dirham,PHP,M,19,8,37,34,15:00:00
+17-May-19,Australian dollar,MGA,M,6,20,69,98,15:00:00
+17-May-19,Pound Sterling,CNY,M,48,50,85,28,15:00:00
+17-May-19,Australian dollar,CNY,D,37,68,50,24,15:00:00
+17-May-19,Euro,CAD,M,48,52,57,9,15:00:00
+17-May-19,Emirati dirham,SEK,D,72,77,7,53,15:00:00
+17-May-19,Pound Sterling,PLN,D,59,61,61,35,15:00:00
+17-May-19,Pound Sterling,SYP,M,83,6,45,80,15:00:00
+17-May-19,Pound Sterling,RUB,D,50,55,18,55,15:00:00
+17-May-19,Canadian dollar,RUB,D,79,76,39,54,15:00:00
+17-May-19,New Zealand dollar,HRK,D,98,92,89,64,15:00:00
+17-May-19,Australian dollar,JPY,D,12,86,38,75,15:00:00
+17-May-19,Pound Sterling,BRL,M,24,5,93,91,15:00:00
+17-May-19,Canadian dollar,CNY,D,95,58,34,87,15:00:00
+17-May-19,Canadian dollar,TND,M,89,73,29,4,15:00:00
+17-May-19,Canadian dollar,TJS,D,64,86,88,27,15:00:00
+17-May-19,Australian dollar,EUR,M,75,24,70,19,15:00:00
+17-May-19,Australian dollar,USD,M,7,37,69,74,15:00:00
+17-May-19,Pound Sterling,JPY,D,86,15,57,74,15:00:00
+17-May-19,Japanese yen,IDR,M,60,97,93,79,15:00:00
+17-May-19,Australian dollar,CAD,M,14,81,12,7,15:00:00
+17-May-19,Euro,NIO,D,71,78,26,35,15:00:00
+17-May-19,Australian dollar,EUR,M,29,46,77,22,15:00:00
+17-May-19,Australian dollar,BRL,D,21,20,89,2,15:00:00
+17-May-19,Emirati dirham,KES,D,8,36,69,87,15:00:00
+17-May-19,Japanese yen,PLN,D,15,58,25,44,15:00:00
+17-May-19,Japanese yen,CNY,M,24,33,32,82,15:00:00
+17-May-19,Euro,KZT,D,52,77,2,75,15:00:00
+17-May-19,Euro,PLN,M,60,17,47,87,15:00:00
+17-May-19,Japanese yen,RUB,D,84,37,71,94,15:00:00
+17-May-19,Pound Sterling,EUR,M,58,1,87,25,15:00:00
+17-May-19,Emirati dirham,CNY,M,72,52,93,68,15:00:00
+17-May-19,Japanese yen,USD,M,29,31,2,48,15:00:00
+17-May-19,Euro,IDR,D,28,30,46,51,15:00:00
+17-May-19,Japanese yen,UGX,M,88,30,17,68,15:00:00
+17-May-19,Emirati dirham,ARS,M,84,45,81,95,15:00:00
+17-May-19,Pound Sterling,COP,D,64,50,30,39,15:00:00
+17-May-19,Emirati dirham,VND,M,96,48,60,99,15:00:00
+17-May-19,New Zealand dollar,THB,D,31,75,19,18,15:00:00
+17-May-19,Euro,CNY,M,9,68,96,79,15:00:00
+17-May-19,Canadian dollar,EUR,M,38,88,82,62,15:00:00
+17-May-19,Emirati dirham,CNY,D,75,4,51,29,15:00:00
+17-May-19,Euro,SEK,M,23,46,64,4,15:00:00
+17-May-19,Euro,IDR,M,9,31,72,77,15:00:00
+17-May-19,Australian dollar,THB,D,11,78,16,73,15:00:00
+17-May-19,New Zealand dollar,EUR,D,88,17,76,99,15:00:00
+17-May-19,Pound Sterling,CNY,M,22,27,28,34,15:00:00
+17-May-19,Emirati dirham,EUR,M,72,29,35,79,15:00:00
+17-May-19,Emirati dirham,RUB,M,71,47,6,21,15:00:00
+17-May-19,Pound Sterling,EUR,M,50,67,46,85,15:00:00
+17-May-19,Canadian dollar,CUP,D,5,93,10,43,15:00:00
+17-May-19,Emirati dirham,DKK,M,68,81,10,9,15:00:00
+17-May-19,Euro,EUR,D,14,9,75,31,15:00:00
+17-May-19,Emirati dirham,YER,D,11,91,16,1,15:00:00
+17-May-19,Pound Sterling,PLN,D,46,96,50,47,15:00:00
+17-May-19,Emirati dirham,AFN,D,51,34,27,20,15:00:00
+17-May-19,Australian dollar,CNY,M,37,2,42,74,15:00:00
+17-May-19,Canadian dollar,PHP,D,90,26,27,37,15:00:00
+17-May-19,Emirati dirham,PHP,D,64,83,30,60,15:00:00
+17-May-19,Emirati dirham,IDR,D,92,70,48,78,15:00:00
+17-May-19,Australian dollar,IRR,D,53,46,85,79,15:00:00
+17-May-19,Japanese yen,CNY,D,84,45,91,80,15:00:00
+17-May-19,Euro,KPW,D,98,36,42,13,15:00:00
+17-May-19,Australian dollar,CAD,M,64,60,74,11,15:00:00
+17-May-19,New Zealand dollar,CNY,D,57,41,44,42,15:00:00
+17-May-19,Australian dollar,CNY,D,88,3,43,21,15:00:00
+17-May-19,Emirati dirham,COP,D,56,31,46,50,15:00:00
+17-May-19,New Zealand dollar,PHP,D,26,90,27,81,15:00:00
+17-May-19,Pound Sterling,CNY,M,45,48,92,5,15:00:00
+17-May-19,New Zealand dollar,EUR,M,33,29,90,84,15:00:00
+17-May-19,Emirati dirham,CNY,M,66,86,48,83,15:00:00
+17-May-19,Australian dollar,PHP,M,23,50,93,41,15:00:00
+17-May-19,New Zealand dollar,NGN,D,36,3,13,64,15:00:00
+17-May-19,Canadian dollar,RUB,M,39,93,82,86,15:00:00
+17-May-19,Japanese yen,XOF,M,76,91,80,57,15:00:00
+17-May-19,Japanese yen,IDR,M,46,67,45,94,15:00:00
+17-May-19,New Zealand dollar,ARS,D,18,100,38,62,15:00:00
+17-May-19,Emirati dirham,CNY,M,49,50,2,95,15:00:00
+17-May-19,New Zealand dollar,BRL,D,8,35,15,67,15:00:00
+17-May-19,Emirati dirham,NIO,M,74,96,26,6,15:00:00
+17-May-19,Japanese yen,EUR,M,40,35,54,16,15:00:00
+17-May-19,Euro,MNT,D,83,21,54,10,15:00:00
+17-May-19,Pound Sterling,SEK,M,7,66,73,31,15:00:00
+17-May-19,Canadian dollar,PHP,M,43,20,61,68,15:00:00
+17-May-19,Emirati dirham,CUP,M,73,99,90,51,15:00:00
+17-May-19,Emirati dirham,CZK,D,83,38,2,27,15:00:00
+17-May-19,Japanese yen,EUR,M,72,53,42,42,15:00:00
+17-May-19,Australian dollar,BYR,D,75,8,55,24,15:00:00
+17-May-19,Canadian dollar,UAH,D,16,38,49,62,15:00:00
+17-May-19,Canadian dollar,EUR,D,40,28,47,23,15:00:00
+17-May-19,Japanese yen,HKD,M,63,62,33,17,15:00:00
+17-May-19,Pound Sterling,CAD,M,49,4,61,22,15:00:00
+17-May-19,Canadian dollar,PHP,D,35,32,3,3,15:00:00
+17-May-19,Euro,CNY,M,35,57,59,7,15:00:00
+17-May-19,Australian dollar,CNY,M,90,11,77,28,15:00:00
+17-May-19,Japanese yen,BRL,D,41,92,14,34,15:00:00
+17-May-19,Japanese yen,THB,M,45,65,56,13,15:00:00
+17-May-19,Emirati dirham,DOP,M,90,93,8,82,15:00:00
+17-May-19,New Zealand dollar,CNY,M,83,41,46,50,15:00:00
+17-May-19,New Zealand dollar,PHP,M,27,45,95,46,15:00:00
+17-May-19,Euro,ILS,D,42,51,41,75,15:00:00
+17-May-19,Pound Sterling,PHP,D,45,5,20,2,15:00:00
+17-May-19,Pound Sterling,CNY,D,58,10,70,37,15:00:00
+17-May-19,Japanese yen,VND,M,76,37,62,27,15:00:00
+17-May-19,Pound Sterling,MNT,D,20,100,62,65,15:00:00
+17-May-19,New Zealand dollar,EUR,M,93,11,98,40,15:00:00
+17-May-19,Euro,CUP,M,58,20,95,76,15:00:00
+17-May-19,Emirati dirham,IDR,M,50,52,96,14,15:00:00
+17-May-19,Pound Sterling,UAH,D,52,32,10,76,15:00:00
+17-May-19,Australian dollar,CNY,D,53,56,83,93,15:00:00
+17-May-19,New Zealand dollar,RUB,M,99,63,54,16,15:00:00
+17-May-19,New Zealand dollar,RUB,D,55,18,21,11,15:00:00
+17-May-19,Japanese yen,PHP,M,61,70,16,3,15:00:00
+17-May-19,Canadian dollar,HTG,D,99,88,43,53,15:00:00
+17-May-19,Pound Sterling,PHP,M,85,41,84,33,15:00:00
+17-May-19,Australian dollar,EUR,M,53,35,81,18,15:00:00
+17-May-19,Euro,USD,D,78,25,74,14,15:00:00
+17-May-19,New Zealand dollar,MNT,M,92,11,22,61,15:00:00
+17-May-19,New Zealand dollar,IDR,D,76,64,53,58,15:00:00
+17-May-19,Australian dollar,IDR,M,12,24,60,88,15:00:00
+17-May-19,Emirati dirham,EGP,D,76,99,98,47,15:00:00
+17-May-19,Japanese yen,CNY,D,74,90,79,3,15:00:00
+17-May-19,Pound Sterling,USD,D,61,83,1,44,15:00:00
+17-May-19,Japanese yen,CNY,D,17,90,24,20,15:00:00
+17-May-19,New Zealand dollar,LYD,M,86,76,72,91,15:00:00
+17-May-19,Canadian dollar,LKR,D,30,17,21,5,15:00:00
+17-May-19,Australian dollar,IRR,D,89,49,40,53,15:00:00
+17-May-19,New Zealand dollar,IDR,D,27,57,19,98,15:00:00
+17-May-19,New Zealand dollar,PLN,M,67,99,86,94,15:00:00
+17-May-19,Pound Sterling,NOK,D,94,9,48,78,15:00:00
+17-May-19,Canadian dollar,PEN,D,90,64,67,96,15:00:00
+17-May-19,Australian dollar,CNY,M,100,58,59,86,15:00:00
+17-May-19,Emirati dirham,XAF,D,96,21,28,57,15:00:00
+17-May-19,Euro,IDR,M,88,22,40,37,15:00:00
+17-May-19,Canadian dollar,RUB,M,53,69,59,36,15:00:00
+17-May-19,Australian dollar,CNY,M,46,85,9,72,15:00:00
+17-May-19,New Zealand dollar,ETB,D,44,61,54,67,15:00:00
+17-May-19,Australian dollar,BRL,D,33,40,61,76,15:00:00
+17-May-19,Pound Sterling,EUR,M,50,33,37,55,15:00:00
+17-May-19,Japanese yen,NGN,M,10,36,98,26,15:00:00
+17-May-19,Australian dollar,JPY,M,47,37,83,23,15:00:00
+17-May-19,New Zealand dollar,CNY,M,68,32,14,9,15:00:00
+17-May-19,Emirati dirham,MYR,M,18,15,87,75,15:00:00
+17-May-19,Australian dollar,AFN,D,89,70,26,18,15:00:00
+17-May-19,Australian dollar,MYR,M,69,66,24,1,15:00:00
+17-May-19,Emirati dirham,KZT,D,91,11,67,99,15:00:00
+17-May-19,Euro,CNY,D,80,13,24,88,15:00:00
+17-May-19,Canadian dollar,IDR,M,93,16,64,57,15:00:00
+17-May-19,New Zealand dollar,CNY,M,4,20,43,22,15:00:00
+17-May-19,New Zealand dollar,KRW,D,68,61,83,35,15:00:00
+17-May-19,New Zealand dollar,SEK,D,35,79,71,54,15:00:00
+17-May-19,Japanese yen,CAD,M,54,33,56,49,15:00:00
+17-May-19,Japanese yen,CNY,D,69,6,97,34,15:00:00
+17-May-19,Pound Sterling,CAD,M,19,15,18,66,15:00:00
+17-May-19,Canadian dollar,RUB,D,8,65,44,60,15:00:00
+17-May-19,Japanese yen,RUB,D,60,26,83,95,15:00:00
+17-May-19,Japanese yen,SEK,M,86,14,13,70,15:00:00
+17-May-19,Pound Sterling,RUB,M,72,97,24,84,15:00:00
+17-May-19,Canadian dollar,CNY,M,11,63,82,97,15:00:00
+17-May-19,Emirati dirham,BYR,M,30,45,32,9,15:00:00
+17-May-19,Canadian dollar,JPY,D,13,24,62,55,15:00:00
+17-May-19,Emirati dirham,SEK,M,24,24,20,24,15:00:00
+17-May-19,Emirati dirham,CNY,D,34,13,3,40,15:00:00
+17-May-19,Euro,IDR,M,27,32,21,85,15:00:00
