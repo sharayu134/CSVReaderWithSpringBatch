@@ -9,6 +9,11 @@ import com.finzly.csvapplication.model.MarginedRate;
 //import java.util.HashMap;
 //import java.util.Map;
 
+/**
+ *  This class is processor component for step .
+ * @return  marginedRate object
+ * @author Sharayu Yadav.
+ */
 @Component
 public class Processor implements ItemProcessor<MarginedRate, MarginedRate> {
 

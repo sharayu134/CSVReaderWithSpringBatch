@@ -13,6 +13,14 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.HashMap;
 import java.util.Map;
 
+
+/**
+ * This is a rest controller which triggers job execution
+ * 
+ * @author Sharayu Yadav
+ *
+ */
+
 @RestController
 @RequestMapping("/load/margined_rates")
 public class LoadController {
@@ -22,7 +30,7 @@ public class LoadController {
 
     @Autowired
     Job job;
-
+    
     @GetMapping
     public BatchStatus load() throws JobParametersInvalidException, JobExecutionAlreadyRunningException, JobRestartException, JobInstanceAlreadyCompleteException {
 
@@ -31,12 +39,6 @@ public class LoadController {
         maps.put("time", new JobParameter(System.currentTimeMillis()));
         JobParameters parameters = new JobParameters(maps);
         JobExecution jobExecution = jobLauncher.run(job, parameters);
-
-//        to log jobExecution.getStatus());
-//
-//        while (jobExecution.isRunning()) {
-//        }
-
         return jobExecution.getStatus();
     }
 }

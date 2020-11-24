@@ -9,6 +9,11 @@ import com.finzly.csvapplication.model.MarginedRate;
 
 import java.util.List;
 
+/**
+ * This a writer component for step which writes marginedRates to database using marginedRate's Repository
+ * 
+ * @author Sharayu Yadav.
+ */
 @Component
 public class DataBaseWriter implements ItemWriter<MarginedRate> {
 

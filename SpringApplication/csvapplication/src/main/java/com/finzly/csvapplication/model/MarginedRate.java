@@ -1,6 +1,6 @@
 package com.finzly.csvapplication.model;
 
-import java.time.LocalTime;
+//import java.time.LocalTime;
 import java.util.Date;
 
 import javax.persistence.Column;
@@ -11,7 +11,9 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author USER This class is Margined Rate entity
+ * This class is Margined Rate entity
+ * 
+ * @author Sharayu Yadav 
  *
  */
 
