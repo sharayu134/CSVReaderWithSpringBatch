@@ -15,6 +15,8 @@ import org.springframework.batch.item.file.mapping.BeanWrapperFieldSetMapper;
 import org.springframework.batch.item.file.mapping.DefaultLineMapper;
 import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.config.server.EnableConfigServer;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
@@ -22,8 +24,6 @@ import org.springframework.core.task.TaskExecutor;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import com.finzly.csvapplication.model.MarginedRate;
-
-import org.springframework.cloud.config.server.EnableConfigServer;
 /** 
  * This class is used to set configuration for spring batch.It defines Job, Step, Task executor and Reader component of the step.
  * 
@@ -81,9 +81,10 @@ public class SpringBatchConfiguration {
 	        executor.setThreadNamePrefix("MultiThreaded-");
 	        return executor;
 	    }
-
+	
 	@Value("${csvResourceFileName}") 
 	public String csvResourceFileName;
+	
 	@Value("${maximumItemCount}") 
 	public   int maximumItemCount;
 	@Value("${numberOfLinesToSkip}") 
