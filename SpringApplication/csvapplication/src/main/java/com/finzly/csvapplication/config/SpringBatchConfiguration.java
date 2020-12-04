@@ -30,8 +30,8 @@ import com.finzly.csvapplication.model.MarginedRate;
  * @author Sharayu Yadav.
  */
 
-@EnableConfigServer
 @Configuration
+@EnableConfigServer
 @EnableBatchProcessing
 public class SpringBatchConfiguration {
 	
@@ -50,12 +50,12 @@ public class SpringBatchConfiguration {
 	    @Value("${chunkSize}") 
 		public int chunkSize;
 	    
-	    public static final String Step_NAME = "Multithreaded : Read -> Process -> Write";
+	    public static final String STEP_NAME = "Multithreaded : Read -> Process -> Write";
 	    
 	    @Bean
 	    public Step multithreadedManagerStep(StepBuilderFactory stepBuilderFactory,ItemWriter<MarginedRate> itemWriter) throws Exception {
 	        return stepBuilderFactory
-	                .get(Step_NAME)
+	                .get(STEP_NAME)
 	                .<MarginedRate,  MarginedRate>chunk(chunkSize)
 	                .reader(itemReader())
 //	                .processor(multithreadedchProcessor())
@@ -82,6 +82,7 @@ public class SpringBatchConfiguration {
 	        return executor;
 	    }
 	
+	   
 	@Value("${csvResourceFileName}") 
 	public String csvResourceFileName;
 	
@@ -91,7 +92,9 @@ public class SpringBatchConfiguration {
 	public  int numberOfLinesToSkip;
 	  
 	public static final String CSV_NAME = "CSV-Reader";
-    @Bean
+    
+	@RefreshScope 
+	@Bean
     public FlatFileItemReader<MarginedRate> itemReader() {
 
     	

@@ -1,0 +1,17 @@
+spring:
+    profiles:
+        active: native
+    cloud:
+        config:
+            server:
+                native:
+                    searchLocations: C:///Users///pranali.kole///Desktop///New folder///springConfigRepo
+
+server:
+  port: 8888
+
+  
+  
+endpoints:
+    restart:
+      enabled: true
